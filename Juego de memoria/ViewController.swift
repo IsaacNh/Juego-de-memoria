@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Juego de memoria
 //
-//  Created by Pablo Jhonatan   on 13/09/16.
+//  Created by  Isaac Noh on 13/09/16.
 //  Copyright © 2016 Isaac Noh. All rights reserved.
 //
 
